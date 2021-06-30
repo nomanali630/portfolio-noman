@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4cdc42dd68510f69cc88527d036a65b2",
+    "revision": "4157d3fcacd439441357f3b84099af0c",
     "url": "/portfolio-noman/index.html"
   },
   {
-    "revision": "68ab4b26174bee0252f9",
+    "revision": "93a9df1bdc2dbc78cbda",
     "url": "/portfolio-noman/static/css/main.ce8c830a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-noman/static/js/2.2e4e67ff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "68ab4b26174bee0252f9",
-    "url": "/portfolio-noman/static/js/main.ec52ab86.chunk.js"
+    "revision": "93a9df1bdc2dbc78cbda",
+    "url": "/portfolio-noman/static/js/main.861fcc97.chunk.js"
   },
   {
     "revision": "1993409111d2d421ea7f",
